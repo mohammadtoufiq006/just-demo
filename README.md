@@ -1,2 +1,4 @@
 # just-demo
-lerning from first git repository.
+Lerning from first git repository.
+<br>
+Creator - Mohammad Toufiq
